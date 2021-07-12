@@ -1,0 +1,61 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega8A"</DEVICE>
+ <WORKING_DIR>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>E:/Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>E:\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>E:/Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m8adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\Debug\UART example.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>UART example.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>UART example.map</FILE>
+  <FILE>UART example.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <number><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>46</LINE></number>
+  <restart_ISR><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>50</LINE></restart_ISR>
+  <start><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>57</LINE></start>
+  <RXcomplete><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>216</LINE></RXcomplete>
+  <TXcomplete><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>306</LINE></TXcomplete>
+  <WDT_off><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>92</LINE></WDT_off>
+  <number_store_init><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>106</LINE></number_store_init>
+  <hi_message><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>317</LINE></hi_message>
+  <sendMessage><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>110</LINE></sendMessage>
+  <enterNum1><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>318</LINE></enterNum1>
+  <loop><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>89</LINE></loop>
+  <sendChar><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>115</LINE></sendChar>
+  <finishSend><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>125</LINE></finishSend>
+  <sendNum><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>129</LINE></sendNum>
+  <sendNum_loop><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>131</LINE></sendNum_loop>
+  <sendNum_finish><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>139</LINE></sendNum_finish>
+  <int_to_ascii><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>143</LINE></int_to_ascii>
+  <count_10000><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>154</LINE></count_10000>
+  <count_1000><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>162</LINE></count_1000>
+  <count_100><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>170</LINE></count_100>
+  <count_10><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>183</LINE></count_10>
+  <count_1><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>189</LINE></count_1>
+  <soft_reset><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>209</LINE></soft_reset>
+  <soft_reset_loop><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>213</LINE></soft_reset_loop>
+  <convert_number><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>241</LINE></convert_number>
+  <check_number_1><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>225</LINE></check_number_1>
+  <check_number_2><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>229</LINE></check_number_2>
+  <continue_rxISR><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>235</LINE></continue_rxISR>
+  <convert_loop><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>250</LINE></convert_loop>
+  <store_num><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>267</LINE></store_num>
+  <num2><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>278</LINE></num2>
+  <enterNum2><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>319</LINE></enterNum2>
+  <convert_finish><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>296</LINE></convert_finish>
+  <result_message><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>320</LINE></result_message>
+  <continue_message><FILE>C:\Users\mohamed\Documents\Atmel Studio\7.0\UART example\UART example\main.asm</FILE><LINE>321</LINE></continue_message>
+ </LABELS>
+</ASSEMBLER_INFO>
